@@ -18,4 +18,4 @@
 * [Yandex-диск ИБ](https://disk.yandex.ru/d/ApgZlYao3JiQJA)
 * [Yandex-диск матстата](https://disk.yandex.ru/d/iUPVjhID2dwCiQ)
 * [Yandex-диск ММП](https://disk.yandex.ru/d/7VE2RpRaePKPOg)
-* [CSDrive](https://disk.yandex.ru/d/3RwGWQopBvzm7g)
+* [CSDrive](https://disk.yandex.ru/d/L0C0IivmAD3N5w/3%20%D0%BA%D1%83%D1%80%D1%81/2%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)
