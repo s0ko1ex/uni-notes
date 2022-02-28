@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+# Uni docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+На данном сайте представлены электронные конспекты предметов прогерского направления кафедры ИБ ВМК МГУ начиная с 6-го семестра 2022 года.
 
-## Commands
+## Сборка локальной копии
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Сначала установите сами **mkdocs-material** через pip:
 
-## Project layout
+```
+pip install mkdocs-material
+```
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Если вы хотите установить mkdocs другим образом (через docker или git), или же у вас iMac с чипом M1, то обращайтесь к [официальной странице](https://squidfunk.github.io/mkdocs-material/getting-started/).
+
+Потом скопируйте данный репозиторий и запустите локальную копию:
+
+```shell
+git clone https://github.com/s0ko1ex/uni-notes/
+cd uni-notes
+mkdocs serve
+```
+
+## Исправления/дополнения
+
+При любых сохранениях файлов сайт обновляется, так что если вам надо сделать собственные изменения, это удобно будет делать одновременно с открытым браузером.
+
+Если вы хотите исправить или дополнить материалы, приведённые здесь, оформите их через pull-request к репозиторию на GitHub. За это автор будет вам очень признателен :)

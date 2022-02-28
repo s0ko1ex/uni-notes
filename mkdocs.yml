@@ -1,4 +1,64 @@
 site_name: Uni notes
+
+repo_url: https://github.com/s0ko1ex/uni-notes
+repo_name: s0ko1ex/Uni-notes
+
+nav:
+  - Главная страница: 'index.md'
+  - 6й семестр:
+    - Оглавление: '6th_semester/index.md'
+    - Математическая логика и логическое программирование:
+      - Оглавление: '6th_semester/mlilp/index.md'
+    - Безопасность компьютерных систем:
+      - Оглавление: '6th_semester/systemsec/index.md'
+    - Методы машинного обучения:
+      - Оглавление: '6th_semester/mml/index.md'
+    - Оптимальное управление:
+      - Оглавление: '6th_semester/om/index.md'
+    - Численные методы:
+      - Оглавление: '6th_semester/nummeth/index.md'
+    - Математические основы криптологии:
+      - Оглавление: '6th_semester/mbc/index.md'
+    - Случайные процессы:
+      - Оглавление: '6th_semester/randproc/index.md'
+    - Архитектура и процесс разработки ПО:
+      - Оглавление: '6th_semester/pppoc/index.md'
+
 theme:
   name: material
   language: ru
+
+  icon:
+    logo: octicons/book-16
+    repo: fontawesome/brands/github
+
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+
+plugins:
+  - search:
+      lang:
+        - en
+        - ru
+  - tags
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
