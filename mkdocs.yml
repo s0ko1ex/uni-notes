@@ -11,6 +11,8 @@ nav:
       - '6th_semester/mlilp/index.md'
     - Безопасность компьютерных систем:
       - '6th_semester/systemsec/index.md'
+    - Практикум на ЭВМ:
+      - '6th_semester/cspractice/index.md'
     - Методы машинного обучения:
       - '6th_semester/mml/index.md'
     - Оптимальное управление:
@@ -21,6 +23,8 @@ nav:
       - '6th_semester/mbc/index.md'
     - Случайные процессы:
       - '6th_semester/randproc/index.md'
+    - Методы оптимизации:
+      - '6th_semester/methopt/index.md'
     - Архитектура и процесс разработки ПО:
       - '6th_semester/pppoc/index.md'
 
