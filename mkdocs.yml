@@ -6,23 +6,23 @@ repo_name: s0ko1ex/Uni-notes
 nav:
   - Главная страница: 'index.md'
   - 6й семестр:
-    - Оглавление: '6th_semester/index.md'
+    - '6th_semester/index.md'
     - Математическая логика и логическое программирование:
-      - Оглавление: '6th_semester/mlilp/index.md'
+      - '6th_semester/mlilp/index.md'
     - Безопасность компьютерных систем:
-      - Оглавление: '6th_semester/systemsec/index.md'
+      - '6th_semester/systemsec/index.md'
     - Методы машинного обучения:
-      - Оглавление: '6th_semester/mml/index.md'
+      - '6th_semester/mml/index.md'
     - Оптимальное управление:
-      - Оглавление: '6th_semester/om/index.md'
+      - '6th_semester/om/index.md'
     - Численные методы:
-      - Оглавление: '6th_semester/nummeth/index.md'
+      - '6th_semester/nummeth/index.md'
     - Математические основы криптологии:
-      - Оглавление: '6th_semester/mbc/index.md'
+      - '6th_semester/mbc/index.md'
     - Случайные процессы:
-      - Оглавление: '6th_semester/randproc/index.md'
+      - '6th_semester/randproc/index.md'
     - Архитектура и процесс разработки ПО:
-      - Оглавление: '6th_semester/pppoc/index.md'
+      - '6th_semester/pppoc/index.md'
 
 theme:
   name: material
@@ -46,6 +46,7 @@ theme:
         name: Switch to light mode
 
   features:
+    - navigation.indexes
     - navigation.instant
 
 plugins:
