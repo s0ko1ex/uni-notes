@@ -1,4 +1,4 @@
 # Безопасность компьютерных систем
 
-* [Ссылка](https://meet.google.com/gxk-yssu-qbj) на пару
+* [Ссылка](https://meet.google.com/gxk-yssu-qbj){:target="_blank"} на пару
 * Преподаватель - Гамаюнов Денис Юрьевич

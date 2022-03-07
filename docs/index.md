@@ -10,11 +10,11 @@
 pip install mkdocs-material
 ```
 
-Если вы хотите установить mkdocs другим образом (через docker или git), или же у вас iMac с чипом M1, то обращайтесь к [официальной странице](https://squidfunk.github.io/mkdocs-material/getting-started/).
+Если вы хотите установить mkdocs другим образом (через docker или git), или же у вас iMac с чипом M1, то обращайтесь к [официальной странице](https://squidfunk.github.io/mkdocs-material/getting-started/){:target="_blank"}.
 
 Потом скопируйте данный репозиторий и запустите локальную копию:
 
-```shell
+```zsh
 git clone https://github.com/s0ko1ex/uni-notes/
 cd uni-notes
 mkdocs serve

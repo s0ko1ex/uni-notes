@@ -1,8 +1,8 @@
 # Численные методы
 
-* [Ссылка](https://classroom.google.com/c/MjUzMzY3NzA0NjQ1) на пару
+* [Ссылка](https://classroom.google.com/c/MjUzMzY3NzA0NjQ1){:target="_blank"} на пару
 * Преподаватель - Применко Эдуард Андреевич
 
 ## Лекции
 
-* [Мегафайл](Lectures_1_7_combined.pdf) - комбинированные лекции с 1 по 7 включительно
+* [Мегафайл](Lectures_1_7_combined.pdf){:target="_blank"} - комбинированные лекции с 1 по 7 включительно
