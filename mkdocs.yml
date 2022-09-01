@@ -27,6 +27,29 @@ nav:
       - '6th_semester/methopt/index.md'
     - Архитектура и процесс разработки ПО:
       - '6th_semester/pppoc/index.md'
+      - Экзамен:
+        - Вопрос 1:
+          - '6th_semester/pppoc/exam/question_08/index.md'
+  - 7й семестр:
+    - '7th_semester/index.md'
+    - Базы данных:
+      - '7th_semester/db/index.md'
+    - Криптопротоколы:
+      - '7th_semester/crypto/index.md'
+    - Дополнительные главы дискретной математики и кибернетики:
+      - '7th_semester/discrete_math/index.md'
+    - Теория игр и исследование операций:
+      - '7th_semester/game_theory/index.md'
+    - Математическая теория анализа программ:
+      - '7th_semester/program_analyses/index.md'
+    - Суперкомпьютеры и параллельная обработка данных:
+      - '7th_semester/supercomputer/index.md'
+    - Глубокое машинное обучение:
+      - '7th_semester/dl/index.md'
+    - Математические модели в экономике:
+      - '7th_semester/economics/index.md'
+    - Введение в теорию сложности вычислений:
+      - '7th_semester/alg_complexity/index.md'
 
 theme:
   name: material
@@ -71,4 +94,11 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
   - attr_list
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
